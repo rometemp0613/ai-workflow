@@ -9,6 +9,11 @@
   - 중간 리더 (백엔드/프론트엔드/테스트)
   - 하위 워커들
 
+## 영어 학습 연계
+
+- 학습 중 영어 원문이나 영어 표현을 함께 다루게 되면, 모르는 단어와 표현은 `../english-learning/notes/1-new/expressions.md`에 추가한다.
+- 표현 기록 형식과 관리 규칙은 `../english-learning/CLAUDE.md`를 따른다.
+
 ## 대화 시작 시 해야 할 일
 
 1. README.md를 읽어서 현재 진도를 파악할 것
